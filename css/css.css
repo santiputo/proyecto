@@ -1,1 +1,21 @@
+body {
+  font-family: Arial, sans-serif;
+}
+.container {
+  width: 80%;
+  margin: 40px auto;
+  text-align: center;
+}
+.destino {
+  display: inline-block;
+  margin: 20px;
+  width: 200px;
+  border: 1px solid #ccc;
+  padding: 20px;
+  border-radius: 10px;
+  cursor: pointer;
+}
+.destino:hover {
+  background-color: #f0f0f0;
+}
 
